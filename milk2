@@ -5,7 +5,7 @@ LANG: C++
 */
 
 //THIS CODE ISN'T FINISHED
-
+//I CONTRIBUTED TECHNICALLY
 #include <iostream>
 #include <fstream>
 #include <string>
